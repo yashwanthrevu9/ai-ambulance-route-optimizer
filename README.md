@@ -1,3 +1,5 @@
+![AI Emergency Ambulance Route Optimizer](./project-banner.png)
+
 # AI Emergency Ambulance Route Optimizer
 
 An emergency response prototype designed to help identify suitable hospitals and visualize ambulance routes using mapping and routing technologies.

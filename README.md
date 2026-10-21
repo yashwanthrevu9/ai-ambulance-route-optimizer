@@ -80,3 +80,21 @@ The public OSRM routing service is used for demonstration and is not guaranteed 
 ## Disclaimer
 
 This project is intended for educational and demonstration purposes only. It is not a certified emergency dispatch or navigation system.
+
+
+
+## Application Screenshots
+
+### 1. Emergency Screen
+![Emergency Screen](./emergency-screen.png)
+
+### 2. Hospital Selection
+![Hospital Selection](./hospital-selection.png)
+
+### 3. Ambulance Route
+![Ambulance Route](./ambulance-route.png)
+
+### 4. Destination Reached
+![Ambulance Destination Reached](./ambulance-destination-reached.png)
+
+

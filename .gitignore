@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Flutter
+ambulance_app/.dart_tool/
+ambulance_app/build/
+ambulance_app/.flutter-plugins
+ambulance_app/.flutter-plugins-dependencies
+
+# Android
+ambulance_app/android/local.properties
+
+# IDE
+.vscode/
+.idea/
